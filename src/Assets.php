@@ -17,7 +17,7 @@ class Assets
 	 */
 	public static function init_assets() {
 		$assets = new \Lean\Assets( [
-			'css_uri' => get_template_directory_uri() . '/patterns/public/css/style.css',
+			'css_uri' => get_template_directory_uri() . '/patterns/css/style.css',
 			'css_version' => time(),
 			'js_uri' => get_template_directory_uri() . '/xxx/script.js',
 			'js_version' => time(),
