@@ -24,7 +24,10 @@
   "autoload": {
     "psr-4": {
       "LeanNs\\": "src/"
-    }
+    },
+    "files": [
+      "./Setup.php"
+    ]
   },
   "scripts": {
     "post-install-cmd": [
