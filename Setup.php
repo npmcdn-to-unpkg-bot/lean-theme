@@ -5,7 +5,7 @@
  *
  * @since 0.1.0
  */
-class ThemeSetup {
+class Setup {
 
 	/**
 	 * Initialise the program after everything is ready.
