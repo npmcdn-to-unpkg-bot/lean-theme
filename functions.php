@@ -12,6 +12,4 @@ define( 'LEANP_TEXT_DOMAIN', 'lean-text-domain' );
 // Composer autoload.
 require_once get_template_directory() . '/vendor/autoload.php';
 
-// Run the theme setup.
-require_once get_template_directory() . '/ThemeSetup.php';
-\LeanNs\ThemeSetup::init();
+\LeanNs\Setup::init();
