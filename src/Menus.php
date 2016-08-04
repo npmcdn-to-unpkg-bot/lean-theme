@@ -3,8 +3,7 @@
 /**
  * Class that register the menu locations to be used with the site.
  */
-class Menus
-{
+class Menus {
 	/**
 	 * Function that creates all the menus locations
 	 */

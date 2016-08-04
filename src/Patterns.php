@@ -5,8 +5,7 @@ use Timber\Timber;
 /**
  * Class for working with twig templates from patternlab.
  */
-class Patterns
-{
+class Patterns {
 	/**
 	 * Init.
 	 */

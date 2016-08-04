@@ -3,8 +3,7 @@
 /**
  * Set-up Assets.
  */
-class Assets
-{
+class Assets {
 	/**
 	 * Init.
 	 */

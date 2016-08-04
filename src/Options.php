@@ -3,8 +3,7 @@
 /**
  * Class Options
  */
-class Options
-{
+class Options {
 	const OPTIONS_SLUG = 'options';
 
 	/**
